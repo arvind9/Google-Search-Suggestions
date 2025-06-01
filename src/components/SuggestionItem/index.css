@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.image {
+  height: 25px;
+  width: 25px;
+  cursor: pointer;
+}
+.list-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+p {
+  margin-top: 0px;
+}
